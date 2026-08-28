@@ -6,12 +6,12 @@
 
 ## <span id="english">English</span>
 
-**Knowledge Network** is an all-AI knowledge-network manager built with Flutter. It lets AI generate and edit knowledge networks for you — no manual dragging, no complex operations.
+**Knowledge Network** is an all-AI knowledge-network manager built with Flutter. Traditional knowledge network software is too complex and too manual — very unfriendly to SpongeBob-family members like me. So I made this **all-AI, zero-manual** little app.
 
 ### Features
 
-- **AI auto-generation**: copy the prompt in the app's "Keys" section, and AI builds the knowledge network for you
-- **Chat to edit**: tell AI what to change, it updates the network directly
+- **AI auto-generation**: open "About", copy the prompt that generates a knowledge network file, paste it into your AI app, then import the generated file into this software
+- **Chat to edit**: after pasting the prompt, just tell AI what to change — no manual dragging or editing
 - **File manager built-in**: import your own files, manage them clearly with the AI-generated network
 
 ### Download
@@ -27,9 +27,9 @@ Click **Releases** on the right side of this page:
 ### Quick Start
 
 1. Open the app
-2. Copy the prompt in "Keys" and let AI generate the network
-3. Tell AI what to change
-4. Or import files and manage them with the AI network
+2. Open "About", copy the prompt
+3. Paste the prompt into your AI app, it generates a knowledge network file
+4. Import the generated file into this software
 
 ### Disclaimer
 
@@ -43,13 +43,13 @@ TBD
 
 ## <span id="chinese">中文</span>
 
-**知识网络** 是一款基于 Flutter 的全 AI 知识网络管理小软件。传统知识网络软件太复杂、太吃操作了——对派大星家族成员非常不友好,所以我做了这个全 AI、零手搓的小软件。
+**知识网络** 是一款基于 Flutter 的全 AI 知识网络管理小软件。传统知识网络软件太复杂、太吃操作了——对我这种派大星家族成员非常不友好,所以我做了这个全 AI、零手搓的小软件。
 
 ### 功能特性
 
-- **自动生成**:复制软件里「按键」的提示词,AI 自动生成知识网络
-- **直接对话**:想改什么直接跟 AI 提,不用手动拖拽
-- **顺便管理文件**:支持导入文件,结合 AI 网络图清晰管理
+- **自动生成**:打开「关于」,复制"自动生成知识网络文件"的提示词,粘贴到 AI 软件里,生成的知识网络文件导入软件即可使用
+- **直接对话**:想改什么,在 AI 软件里粘贴提示词之后直接跟 AI 提,不用手动拖拽
+- **顺便管理文件**:支持导入自己的文件,结合 AI 网络图清晰管理
 
 ### 下载安装
 
@@ -64,9 +64,9 @@ TBD
 ### 快速上手
 
 1. 打开软件
-2. 复制「按键」提示词,AI 自动生成知识网络
-3. 想改内容直接跟 AI 提
-4. 或导入文件,结合 AI 网络图管理
+2. 打开「关于」,复制提示词
+3. 把提示词粘贴到 AI 软件里,AI 生成知识网络文件
+4. 把生成的文件导入软件,即可使用
 
 ### 免责声明
 
