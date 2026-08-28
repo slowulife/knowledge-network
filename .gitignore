@@ -1,0 +1,19 @@
+# ===== Flutter / Dart =====
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+*.iml
+.pub/
+
+# ===== 编辑器 =====
+.idea/
+.vscode/
+
+# ===== 系统 =====
+Thumbs.db
+Desktop.ini
+
+# ===== 隐私提醒 =====
+# 私人数据包、个人备份请勿放进本仓库
